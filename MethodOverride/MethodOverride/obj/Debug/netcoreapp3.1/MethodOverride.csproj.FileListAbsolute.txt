@@ -1,0 +1,12 @@
+/Users/salom11/Desktop/MethodOverride/MethodOverride/bin/Debug/netcoreapp3.1/MethodOverride.deps.json
+/Users/salom11/Desktop/MethodOverride/MethodOverride/bin/Debug/netcoreapp3.1/MethodOverride.runtimeconfig.json
+/Users/salom11/Desktop/MethodOverride/MethodOverride/bin/Debug/netcoreapp3.1/MethodOverride.runtimeconfig.dev.json
+/Users/salom11/Desktop/MethodOverride/MethodOverride/bin/Debug/netcoreapp3.1/MethodOverride.dll
+/Users/salom11/Desktop/MethodOverride/MethodOverride/bin/Debug/netcoreapp3.1/MethodOverride.pdb
+/Users/salom11/Desktop/MethodOverride/MethodOverride/obj/Debug/netcoreapp3.1/MethodOverride.csprojAssemblyReference.cache
+/Users/salom11/Desktop/MethodOverride/MethodOverride/obj/Debug/netcoreapp3.1/MethodOverride.AssemblyInfoInputs.cache
+/Users/salom11/Desktop/MethodOverride/MethodOverride/obj/Debug/netcoreapp3.1/MethodOverride.AssemblyInfo.cs
+/Users/salom11/Desktop/MethodOverride/MethodOverride/obj/Debug/netcoreapp3.1/MethodOverride.csproj.CoreCompileInputs.cache
+/Users/salom11/Desktop/MethodOverride/MethodOverride/obj/Debug/netcoreapp3.1/MethodOverride.dll
+/Users/salom11/Desktop/MethodOverride/MethodOverride/obj/Debug/netcoreapp3.1/MethodOverride.pdb
+/Users/salom11/Desktop/MethodOverride/MethodOverride/obj/Debug/netcoreapp3.1/MethodOverride.genruntimeconfig.cache
